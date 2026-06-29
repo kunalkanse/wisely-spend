@@ -1,0 +1,5 @@
+In claude -> venv/Scripts/python.exe app.py
+
+In Terminal - 
+    venv/Scripts/activate
+    python app.py
